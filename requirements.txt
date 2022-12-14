@@ -1,0 +1,14 @@
+# ----
+pyrogram
+TgCrypto
+Pyromod
+
+# ----
+feedparser
+gitpython
+heroku3
+psycopg2-binary
+python-dotenv
+speedtest-cli
+pymongo
+wget
